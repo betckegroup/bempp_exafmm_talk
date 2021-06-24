@@ -24,4 +24,6 @@
 *.nav
 *.vrb
 *.synctex.gz
+*.fdb_latexmk
+*.fls
 
